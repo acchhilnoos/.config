@@ -1,0 +1,32 @@
+font-family = "Iosevka NFM"
+font-size = 18
+font-feature = "-calt"
+font-feature = "-liga"
+font-feature = "-dlig"
+
+theme = "Kanagawa Wave"
+
+background-opacity = 1
+background-blur-radius = 20
+
+window-decoration = "none"
+macos-titlebar-style = "hidden"
+window-padding-x = 10
+window-padding-y = 10
+
+cursor-style = block
+shell-integration-features = no-cursor
+
+window-inherit-working-directory = true
+
+macos-option-as-alt = true
+
+# keybind = ctrl+q>h=goto_split:left
+# keybind = ctrl+q>l=goto_split:right
+# keybind = ctrl+q>j=goto_split:bottom
+# keybind = ctrl+q>k=goto_split:top
+# keybind = ctrl+q>shift+h=new_split:left
+# keybind = ctrl+q>shift+l=new_split:right
+# keybind = ctrl+q>shift+j=new_split:down
+# keybind = ctrl+q>shift+k=new_split:up
+# keybind = ctrl+q>equal=equalize_splits
